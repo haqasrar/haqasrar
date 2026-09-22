@@ -1,23 +1,3 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-24444
-Fork on GitHub
-8412
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Mohammad Asrar Ul Haque Ahanger</h1>
 <h3 align="center">Freelancer | Web/App Developer | Data Analyst</h3>
 
@@ -27,13 +7,9 @@ preview
 
 <p align="left"> <a href="https://twitter.com/haq1asrar" target="blank"><img src="https://img.shields.io/twitter/follow/haq1asrar?logo=twitter&style=for-the-badge" alt="haq1asrar" /></a> </p>
 
-- 🔭 I’m currently working on **Eride**
+- 🔭 I’m currently working on **Eride ( E-Rikshaw Ride Booking )**
 
 - 🌱 I’m currently learning **Data Analytics,**
-
-- 👯 I’m looking to collaborate on [Dr Mukhtars Imaging Center](https://github.com/haqasrar/clinic-website-client)
-
-- 🤝 I’m looking for help with [Tauseef Khaliq (Portfolio)](https://github.com/haqasrar/Tauseef-Khaliq-portfolio)
 
 - 👨‍💻 All of my projects are available at [https://haqasrar.netlify.app/](https://haqasrar.netlify.app/)
 
@@ -62,27 +38,3 @@ preview
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haqasrar&" alt="haqasrar" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me a Coffee
